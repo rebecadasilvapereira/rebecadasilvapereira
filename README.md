@@ -2,7 +2,7 @@
 
 Meu Nome é Rebeca Da Silva pereira
  
-estou estudando na alura 
+estou estudando na [alura](https://www.alura.com.br)
 estou se desenvolvendo na linguagem javascript
 Ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
 
